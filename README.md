@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[![wakatime](https://wakatime.com/badge/user/0985cb7f-21b8-4ea5-86a4-5e6ba93cb575.svg)](https://wakatime.com/@0985cb7f-21b8-4ea5-86a4-5e6ba93cb575)   
+
 **Guest-Liang/Guest-Liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
