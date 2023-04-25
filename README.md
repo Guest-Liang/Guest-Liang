@@ -8,7 +8,7 @@
 
 **Guest-Liang/Guest-Liang** is a ✨ _special_ ✨ repository because the `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
