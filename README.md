@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋你怎么知道我原神60级了？
 
 [![wakatime](https://wakatime.com/badge/user/0985cb7f-21b8-4ea5-86a4-5e6ba93cb575.svg)](https://wakatime.com/)
 [![Genshin UID](https://img.shields.io/badge/Genshin%20UID-200451257-%09%23DEB887)](https://ys.mihoyo.com/)
@@ -24,7 +24,7 @@ Here are some ideas to get started:
 
 - 🌱 I’m currently learning now.
 - 📫 How to reach me: GuestLiang@outlook.com
-- ⚡ Fun fact: Genshin Impact. Star Rail. VS Code users.   
+- ⚡ Fun fact: It's not fun.  
 
 ## Emojis   
 😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗☺️😚😙🥲😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑😶😏😒🙄😬🤥😌😔😪🤤😴😷🤒🤕🤢🤮🤧🥵🥶🥴😵🤯🤠🥳🥸😎🤓🧐😕😟🙁☹️😮😯😲😳🥺😦😧😨😰😥😢😭😱😖😣😞😓😩😫🥱😤😡😠🤬
