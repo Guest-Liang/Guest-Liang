@@ -14,13 +14,19 @@
     <tr>
       <td valign="middle">
         <div align="center">
-          <img src="https://github-readme-stats.guestliang.icu/api?username=Guest-Liang&include_all_commits=true&number_format=long&number_precision=2&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10&theme=dark#gh-dark-mode-only" alt="Github Stats"/>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.guestliang.icu/api?username=Guest-Liang&include_all_commits=true&number_format=long&number_precision=2&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_radius=10&theme=dark#gh-dark-mode-only" alt="Github Stats"/>
+          </a>
           <br/><br/>
-          <img src="https://github-readme-stats.guestliang.icu/api/top-langs/?username=Guest-Liang&custom_title=Most+Used+Languages+(Uses+both+byte+and+repo+count+for+ranking)&card_width=600&langs_count=20&theme=dark&layout=compact&exclude_repo=EBU7405-Coursework,Snap.Hutao,Snap.Hutao.zipfork&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.guestliang.icu/api/top-langs/?username=Guest-Liang&custom_title=Most+Used+Languages+(Uses+both+byte+and+repo+count+for+ranking)&card_width=600&langs_count=20&theme=dark&layout=compact&exclude_repo=EBU7405-Coursework,Snap.Hutao,Snap.Hutao.zipfork&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
+          </a>
         </div>
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.guestliang.icu/api/wakatime?username=GuestLiang&langs_count=30&hide=Batchfile,RPMSpec,Ezhil,NSIS,Debian+Sourcelist" alt="WakaTime stats"/>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.guestliang.icu/api/wakatime?username=GuestLiang&langs_count=30&hide=Batchfile,RPMSpec,Ezhil,NSIS,Debian+Sourcelist" alt="WakaTime stats"/>
+        </a>
       </td>
     </tr>
   </table>
