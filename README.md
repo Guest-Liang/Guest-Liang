@@ -19,7 +19,7 @@
           </a>
           <br/><br/>
           <a href="https://github.com/Guest-Liang">
-            <img src="https://github-readme-stats.guestliang.icu/api/top-langs/?username=Guest-Liang&locale=cn&custom_title=最常使用的编程语言&card_width=600&langs_count=20&theme=dark&layout=compact&exclude_repo=EBU7405-Coursework,Snap.Hutao,Snap.Hutao.zipfork&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
+            <img src="https://github-readme-stats.guestliang.icu/api/top-langs/?username=Guest-Liang&locale=cn&custom_title=最常使用的编程语言&card_width=600&langs_count=20&theme=dark&layout=compact&exclude_repo=EBU7405-Coursework,Snap.Hutao,Snap.Hutao.zipfork,Snap.Hutao.99tags&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"/>
           </a>
         </div>
       </td>
